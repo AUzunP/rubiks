@@ -17,8 +17,6 @@ public class Driver {
 		
 		cube.printAllFaces();
 		
-		System.out.println("test");
-		
 	}
 
 }
